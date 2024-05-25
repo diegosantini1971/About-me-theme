@@ -8,27 +8,26 @@ keywords:
     - spress
 
 author:
-    name: "Rob Denton"
-    headline: "UX Designer & Strategist"
+    name: "Diego Santini"
+    headline: "Graphic Designer at Del Monaco pubblicità & Design"
     bio: |
-      Passionate software engineer, polyglot programmer
-      and agile engineering advocate.
+      Senior Graphic Designer, Poliglot, Metalhead
     interests:
-        - Javascript
-        - CSS3
-        - PHP
-        - Symfony
+        - Music
+        - Graphic
+        - Journeys
+        - Classic Cars
 
 # Social networks card
 social_networks:
     twitter: "spress_cms" # Your id without @
-    facebook:  # Your URL
-    instagram: # Your id
+    facebook:  https://www.facebook.com/diego.santini.tr/
+    instagram: diegosantini.backup
     github: "https://github.com/spress/Spress"
     dribbble: # Your id
     linkedin: # Your URL
-    email: # Your email adress you@yoourDomain.com
-    url: # Your URL
+    email: diegosantini@gmail.com    
+    url: http://www.delmonacopubblicita.com
 
 texts:
     default_color: "#fff"
